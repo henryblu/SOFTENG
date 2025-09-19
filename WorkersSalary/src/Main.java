@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        SalaryInfo payroll = new SalaryInfo();
+        Payroll payroll = new Payroll();
 
         payroll.addEmployee(new Employee("Bob Jones", 1000, 10));
         payroll.addEmployee(new Employee("Joe", 10020, 40));

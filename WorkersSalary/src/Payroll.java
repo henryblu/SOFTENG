@@ -2,7 +2,7 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SalaryInfo {
+public class Payroll {
     private List<Employee> employees = new ArrayList<>();
 
     public void addEmployee(Employee employee) {

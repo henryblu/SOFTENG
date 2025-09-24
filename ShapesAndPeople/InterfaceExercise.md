@@ -250,7 +250,7 @@ this is also done with the above explanation :)
 
 10.	Implement your program to sort Persons and Rectangles by using the Comparable interface and the Collections class. 
 
-you can see the final code in this repository:
+you can see the final code in this repository here the comparable interface is called Sortable<T> and the Collections class is called Sorter:
 
 https://github.com/henryblu/SOFTENG/tree/main/ShapesAndPeople
 

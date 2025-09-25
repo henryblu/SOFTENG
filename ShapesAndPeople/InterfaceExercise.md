@@ -169,7 +169,11 @@ this is done with the above explanation :)
 
 8.	Implement your design and make a program that sorts an array of 5 Persons and other array of 5 Rectangles.
 
-we update main to the following:
+You can see the final code in the repository ShapesAndPeople here:
+
+https://github.com/henryblu/SOFTENG/tree/main/ShapesAndPeople/src
+
+With this, we update main to the following:
 
 ```java
 import java.util.ArrayList;
@@ -210,6 +214,7 @@ public class Main {
     }
 }
 ```
+
 which has the following output:
 
 ```txt
@@ -246,11 +251,10 @@ susan Smith
 a.	https://docs.oracle.com/javase/7/docs/api/java/lang/Comparable.html
 b.	https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html#sort(java.util.List)
 
-this is also done with the above explanation :)
+This is also done with the above code :)
 
-10.	Implement your program to sort Persons and Rectangles by using the Comparable interface and the Collections class. 
+10.	Implement your program to sort Persons and Rectangles by using the Comparable interface and the Collections class.
+ 
+To implement the same functionality using Java's Comparable interface and Collections class, we need to make both Person and Rectangle implement Comparable<T>. This was done and demonstrated in the /srcComparable directory of the repository. Found here:
 
-you can see the final code in this repository here the comparable interface is called Sortable<T> and the Collections class is called Sorter:
-
-https://github.com/henryblu/SOFTENG/tree/main/ShapesAndPeople
-
+https://github.com/henryblu/SOFTENG/tree/main/ShapesAndPeople/srcComparable

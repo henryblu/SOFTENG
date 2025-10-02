@@ -13,7 +13,6 @@ For this exercise we require the following results:
 1. Use cases description and diagram.
 
 * Actors
-
   * **City Clerk / Admin** (primary)
 * Use case descriptions
 
@@ -28,7 +27,7 @@ For this exercise we require the following results:
   ![use_case_diagram.png](attributes/use_case_diagram.png)
 
 2. Class diagram
-   Using the uscases and task description, we generate the following class diagram:
+   Using the use cases and task description, we generate the following class diagram:
 
    ![class_diagram.png](attributes/service_class_diagram.png)
 3. Sequence diagrams for the transfer vehicle and taxes listing use cases.
@@ -43,7 +42,7 @@ For this exercise we require the following results:
 
 ![Annual_Tax_Listing_SD](attributes/Annual_Tax_Listing_SD.png)
 
-8. Implementation in Java. You can use the java.util classes that you need.
+4. Implementation in Java. You can use the java.util classes that you need.
 
 - Now that we have made out class and sequence diagrams, you can find the fully implemented code in the src repository here:
    https://github.com/henryblu/SOFTENG/tree/main/VehicleTaxes/src

@@ -1,6 +1,5 @@
 import java.math.BigDecimal;
 import java.util.*;
-import java.util.stream.Collectors;
 
 public final class VehicleTaxApplication {
     private final Map<String, Person> persons = new HashMap<>();

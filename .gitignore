@@ -5,3 +5,4 @@ bin/
 *.puml
 *.xml
 *.iml
+TheSpreadsheet/data/sample.s2v

@@ -5,4 +5,5 @@ bin/
 *.puml
 *.xml
 *.iml
-TheSpreadsheet/data/sample.s2v
+TheSpreadsheet/data/*
+TheSpreadsheet/expression-builder-example-main/*

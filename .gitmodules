@@ -1,0 +1,3 @@
+[submodule "TheSpreadsheet"]
+	path = TheSpreadsheet
+	url = git@github.com:henryblu/TheSpreadsheet.git
